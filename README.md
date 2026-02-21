@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Gedgeted ⚡</h1>
+<h1 align="center"> Collins Ngunyi </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Engineer;Building+Smart+Solutions;Tech+Enthusiast" />
