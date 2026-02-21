@@ -26,7 +26,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gedgeted&theme=radical&no-frame=true&margin-w=6" />
+<img src="[https://github-profile-trophy.vercel.app/?username=Gedgeted&theme=radical&no-frame=true&margin-w=6](https://github.com/Gadgeted?achievement=pull-shark&tab=achievements)" />
 </p>
 
 ---
